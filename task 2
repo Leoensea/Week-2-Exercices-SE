@@ -1,0 +1,27 @@
+Questions: Payments
+
+- Why do modern payment cards use a chip and not a magnetic stripe?
+Modern cards are using a chip, because it improves security (with associated fraud reduction), and offers the possibility for finer control of "offline" credit-card 
+transaction approvals. 
+
+- What are EMV Certificates and why are they relevant for payment protection?
+EMV certification is a rigorous testing and approval process that validates the compliance of payment devices. 
+It's important because it ensures that these devices are capable of securely processing chip-enabled payment cards and protecting sensitive cardholder data during transactions.
+
+- What attacks exist against payment cards?
+  - Card-not-present : 
+    - Phishing
+    - Man-in-the-Middle Attacks
+  - Contactless payment : 
+    - relay attacks
+    - Eavesdropping
+    - Skimming on NFC Readers
+
+Questions: MFA
+
+- How is multi-factor authentication (MFA) used in banking?
+MFA requires users to provide two or more authentication factors (categories) before their access is granted.
+It asks for something you know most commonly is a password and something you have like receiving a unique password. 
+It is used in banks, for access to these accounts (at a certain frequency), or before any transfer for example, etc.
+
+- How does multi-factor authentication increase payment security?
