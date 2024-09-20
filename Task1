@@ -14,4 +14,40 @@ This can cause :
 The second website has a locker which means it is using HTTPS (Hypertext Transfer Protocol Secure). It is the combination of HTTP with a TLS encryption layer.
 This protocol ensures the confidentiality of data and protects their integrity during the transfer of information, from the Internet user's computer to the visited website.
 
+- What other ways are there to detect a phishing/scam site?
+It exists different ways to detect a phishing/scam site : 
+  - pay attention to the link and the correct spelling
+  - pay attention to the quality of content and design
+  - check the age of the site. Fraudulent sites are often recent
+  - ensure that there is a privacy policy
+  - ensure that the payment methods offered are usual
+
+Exemple of tools available online : 
+  - Google Safe Browsing (https://transparencyreport.google.com/safe-browsing/search) 
+  - Virustotal (https://www.virustotal.com/gui/home/upload)
+  - PhishTank (https://phishtank.org)
+  -...
+
+- What is typosquatting and how does it relate to the pictures?
+
+Typosquatting is a form of cybersquatting consisting of registering a domain name very close to a generally well-known domain name. 
+It is based on typing or spelling errors made by Internet users during the search, thus making it possible to direct the Internet user to a site other than the one sought.
+On the picture, we can see : 
+  - danskebank.io/sinulle/sinulle 
+  - danskebank.fi/sinulle/sinulle
+The first one is misspelled and will direct the Internet user to a site other than the one sought
+
+What is UDRP and how does it help with combatting typosquatting?
+UDRP (Uniform Domain-Name Dispute-Resolution Policy) is a policy where trademark-based domain disputes must be resolved through agreement, court action, 
+or arbitration before a registrar can cancel, suspend, or transfer a domain name. 
+Disputes involving cybersquatting can be addressed through expedited proceedings filing a complaint. 
+
+If you were to own the domain ouspg.org and would be running your crypto banking application at bank.ouspg.org, what domains could you monitor for warning signs of possible 
+phishing attempts against your customers?
+The domains I could monitor for warning signs of possible phishing attempts against my customers are : 
+  - mispelling of ouspg.org and bank
+  - add of other words (prefixe/suffixe) 
+
+
+
 
