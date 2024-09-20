@@ -1,0 +1,10 @@
+### Task 1A: Browsers and Banking Security
+
+- What does the "Not Secure" warning mean in the first picture and what risks does visiting sites with the warning pose?
+
+The "Not Secure" warning means that the website is still in HTTP (Hypertext protocol transfer) - and isn't secure. 
+This means that a third party could see the information you send or receive through this site.
+This can cause : 
+  - leak of personal information (passwords, credit card data)
+  - phishing attacks
+  - installing malware on your computer
