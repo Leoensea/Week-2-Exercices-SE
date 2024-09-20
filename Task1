@@ -8,3 +8,10 @@ This can cause :
   - leak of personal information (passwords, credit card data)
   - phishing attacks
   - installing malware on your computer
+
+- Why does the second site show up as "trusted" to the browser?
+
+The second website has a locker which means it is using HTTPS (Hypertext Transfer Protocol Secure). It is the combination of HTTP with a TLS encryption layer.
+This protocol ensures the confidentiality of data and protects their integrity during the transfer of information, from the Internet user's computer to the visited website.
+
+
